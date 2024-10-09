@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebi\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Facultate\\Anul 3\\Semestrul 1\\GP\\OpenGLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B01BBF-CC5D-413F-9CB6-53A6910B65CB}|OpenGLProject\\OpenGLProject.vcxproj|C:\\Users\\sebi\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Facultate\\Anul 3\\Semestrul 1\\GP\\OpenGLProject\\OpenGLProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48B01BBF-CC5D-413F-9CB6-53A6910B65CB}|OpenGLProject\\OpenGLProject.vcxproj|solutionrelative:OpenGLProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\sebi\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Facultate\\Anul 3\\Semestrul 1\\GP\\OpenGLProject\\OpenGLProject\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGLProject\\main.cpp",
+              "ToolTip": "C:\\Users\\sebi\\OneDrive - Technical University of Cluj-Napoca\\Documents\\Facultate\\Anul 3\\Semestrul 1\\GP\\OpenGLProject\\OpenGLProject\\main.cpp",
+              "RelativeToolTip": "OpenGLProject\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:40:10.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
